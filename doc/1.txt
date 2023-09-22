@@ -1,0 +1,1 @@
+int a=0;if(a);else printf("%d",a+1);
